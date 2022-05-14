@@ -1,4 +1,4 @@
-import History from "../models/History.js";
+import History from "../models/history.js";
 import Phrase from "../models/phrase.js";
 import User from "../models/user.js";
 
